@@ -1,4 +1,4 @@
-FROM ghcr.io/crops/yocto:ubuntu-20.04-base
+FROM ghcr.io/crops/yocto:ubuntu-22.04-base
 LABEL maintainer="Justin Hammond <justin@dynam.ac>"
 
 USER root
